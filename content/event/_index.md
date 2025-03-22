@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Мероприятия
 
 # Listing view
 view: compact
