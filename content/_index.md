@@ -45,16 +45,4 @@ sections:
     design:
       columns: '1'
       
-  - block: collection
-    content:
-      title: Публикации
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
 ---
