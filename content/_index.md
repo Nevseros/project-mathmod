@@ -16,10 +16,10 @@ sections:
         <br>
         
         Этот сайт создан для освещения работы над проектом по изучению и моделированию колебания цепочек. Это применимо к цепочкам атомов в кристалле.
-  
+
   - block: collection
     content:
-      title: Последние новости
+      title: События <br><br>
       subtitle:
       text:
       count: 5
@@ -31,18 +31,18 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: event
     design:
-      view: card
-      columns: '1'
+      view: compact
+      columns: '4'
+
 
   - block: markdown
     content:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Познакомьтесь с нами →" %}}
+        {{% cta cta_link="./people/" cta_text="Наша команда →" %}}
     design:
       columns: '1'
-      
 ---

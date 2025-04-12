@@ -43,6 +43,7 @@ featured: true
 #   url: http://example.org
 
 url_video: 'https://plvideo.ru/watch?v=UbNmImnvGdzX'
+url_pdf: 'https://nevseros.github.io/publication/stage2/conference-paper.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -157,7 +158,7 @@ $$
 В системе существуют различные моды колебаний, соответствующие различным $p_l$. Эти моды не взаимодействуют между собой и называются гармониками. В музыке волна с волновым числом $p_1$ называется основным тоном, а остальные — обертонами.
 
 {{% callout note %}}
-Полный текст публикации можно найти по [этой](https://nevseros.github.io/publication/conference-paper/conference-paper.pdf) ссылке.
+Полный текст публикации можно найти по [этой](https://nevseros.github.io/publication/stage2/conference-paper.pdf) ссылке.
 {{% /callout %}}
 
 {{% callout note %}}
