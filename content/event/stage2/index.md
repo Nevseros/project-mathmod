@@ -7,7 +7,7 @@ event_url:
 location: РУДН
 address:
 
-summary: Следующий этап проекта - описываем вводные.
+summary: Следующий этап проекта - описываем алгоритмы.
 abstract: ''
 
 # Talk start and end times.
@@ -31,8 +31,8 @@ image:
 
 url_code: ''
 url_pdf: 'https://nevseros.github.io/publication/stage2/conference-paper.pdf'
-url_slides: ''
-url_video: ''
+url_slides: 'https://nevseros.github.io/event/stage2/presentation.pdf'
+url_video: 'https://plvideo.ru/watch?v=TeE8tVVnZItgv'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
